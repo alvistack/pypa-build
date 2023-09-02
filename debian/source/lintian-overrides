@@ -1,0 +1,5 @@
+python-build source: file-without-copyright-information
+python-build source: no-debian-changes
+python-build source: source-contains-prebuilt-windows-binary
+python-build source: source-is-missing
+python-build source: source-package-encodes-python-version

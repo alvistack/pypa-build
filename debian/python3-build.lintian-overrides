@@ -1,0 +1,4 @@
+python3-build: copyright-without-copyright-notice
+python3-build: initial-upload-closes-no-bugs
+python3-build: no-manual-page
+python3-build: zero-byte-file-in-doc-directory

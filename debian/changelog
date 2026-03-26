@@ -1,0 +1,5 @@
+python-build (100:1.4.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pypa/build/releases/tag/1.4.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 26 Mar 2026 11:42:25 +0800
